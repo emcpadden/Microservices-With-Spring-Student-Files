@@ -1,6 +1,6 @@
 # lucky-word-client.yml
 ---
 wordConfig:
-  preamble: Your special lucky word is
-  luckyWord: Lucky Ducky
-  randomTitle: RANDOM NUMBER
+  preamble: Lucky word is ... wait for it ...
+  luckyWord: Mundo Lucky
+  randomTitle: RANDOM STUFF at the end
