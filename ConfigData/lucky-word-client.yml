@@ -1,5 +1,5 @@
 # lucky-word-client.yml
 ---
 wordConfig:
-  preamble: The lucky word is
-  luckyWord: Irish
+  preamble: Your special lucky word is
+  luckyWord: Lucky Ducky
